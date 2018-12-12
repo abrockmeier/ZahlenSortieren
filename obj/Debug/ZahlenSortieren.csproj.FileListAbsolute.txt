@@ -4,3 +4,10 @@ C:\Users\Alex\Source\Repos\ZahlenSortieren\ZahlenSortieren\bin\Debug\ZahlenSorti
 C:\Users\Alex\Source\Repos\ZahlenSortieren\ZahlenSortieren\obj\Debug\ZahlenSortieren.csproj.CoreCompileInputs.cache
 C:\Users\Alex\Source\Repos\ZahlenSortieren\ZahlenSortieren\obj\Debug\ZahlenSortieren.exe
 C:\Users\Alex\Source\Repos\ZahlenSortieren\ZahlenSortieren\obj\Debug\ZahlenSortieren.pdb
+C:\Users\BrockmeierA\Documents\GitHub\ZahlenSortieren\bin\Debug\ZahlenSortieren.exe.config
+C:\Users\BrockmeierA\Documents\GitHub\ZahlenSortieren\bin\Debug\ZahlenSortieren.exe
+C:\Users\BrockmeierA\Documents\GitHub\ZahlenSortieren\bin\Debug\ZahlenSortieren.pdb
+C:\Users\BrockmeierA\Documents\GitHub\ZahlenSortieren\obj\Debug\ZahlenSortieren.csprojAssemblyReference.cache
+C:\Users\BrockmeierA\Documents\GitHub\ZahlenSortieren\obj\Debug\ZahlenSortieren.csproj.CoreCompileInputs.cache
+C:\Users\BrockmeierA\Documents\GitHub\ZahlenSortieren\obj\Debug\ZahlenSortieren.exe
+C:\Users\BrockmeierA\Documents\GitHub\ZahlenSortieren\obj\Debug\ZahlenSortieren.pdb

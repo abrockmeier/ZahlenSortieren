@@ -57,7 +57,7 @@ namespace nZahlenSortieren
 			}
 		eingabeArray = new int[anzahlElemente];
 		korrekteEingabe = true;
-		for (x = 0; x <i; x++)
+		for (x = 0; x < i; x++)
 		{
 			xN = x + 1;
 			Console.WriteLine("Bitte {0}. Zahl eingeben:", xN);
